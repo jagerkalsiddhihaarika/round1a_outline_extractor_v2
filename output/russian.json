@@ -1,0 +1,4277 @@
+{
+  "title": "147",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "147",
+      "page": 1,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "П ространственная   Э кономика",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "2019. Том 15.  ¹  3. С. 147—164",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "JEL: E43, E52, Q28",
+      "page": 1,
+      "language": "Catalan"
+    },
+    {
+      "level": "H1",
+      "text": "УДК 336+339",
+      "page": 1,
+      "language": "Ukrainian"
+    },
+    {
+      "level": "H1",
+      "text": "DOI:  10.14530/se.2019.3.147-164",
+      "page": 1,
+      "language": "Afrikaans"
+    },
+    {
+      "level": "H2",
+      "text": "Современные особенности денежно-",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "кредитной политики ведущих стран мира",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Е.Ю. Соколова 1",
+      "page": 1,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Соколова Елена Юрьевна",
+      "page": 1,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "кандидат экономических наук",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ведущий научный сотрудник",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Центр денежно-кредитной политики и финансовых рынков, Финансовый университет при",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Правительстве РФ, Ленинградский пр-т, 49, Москва, Россия, 125993",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "E-mail: EYSokolova@fa.ru",
+      "page": 1,
+      "language": "Estonian"
+    },
+    {
+      "level": "H2",
+      "text": "ORCID: 0000-0003-4240-0080",
+      "page": 1,
+      "language": "Portuguese"
+    },
+    {
+      "level": "H2",
+      "text": "Аннотация.  Мировой кризис 2007–2009 гг. обнажил проблемы финансовой системы, воз­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "никшие в связи с активным развитием производных финансовых инструментов и",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "увеличением транснациональных потоков капитала. Причем в странах с развиты­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ми рынками, чья экономика считалась устойчивой, последствия оказались самы­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ми тяжелыми. Выявились недостатки денежно-кредитной политики, проводимой",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "монетарными властями большинства стран. Центральные банки трансформиру­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ются из институтов, поддерживающих ценовую стабильность и обеспечивающих",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "устойчивость развития финансового рынка, в основной инструмент стимулирова­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ния экономического роста. С целью восстановления экономики после мирового",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "финансового кризиса 2007–2009 гг. центральные банки ведущих мировых стран",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "начали уходить от стандартных методов и инструментов денежно-кредитной по­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "литики. Для поддержания экономики в развивающихся странах были применены",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "механизмы налогово-бюджетной политики, в развитых же странах использовали",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "инструменты денежно-кредитной политики. Ведущие страны мира перешли к",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "использованию нестандартных методов денежно-кредитного регулирования эко­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "номики. Монетарные власти начали обозначать в качестве ориентиров денежно-",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "кредитной политики уровень безработицы, а также уделять внимание управлению",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ожиданиями участников рынка, используя политику «forward guidance», которая",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "позволяет получить сведения о предстоящих изменениях денежно-кредитной по­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "литики и процентной ставки. Требовалось переосмыслить цели и задачи регуля­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "торов, чтобы не ограничиваться лишь обеспечением ценовой стабильности. США,",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Япония, Великобритания и другие страны от процентной политики переходят к не­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "стандартным методам денежно-кредитной политики и, в частности, к методу «ко­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "личественного смягчения». Данные операции способствовали снижению ставок по",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "государственным и частным ценным бумагам, стимулировали изменение структу­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ры инвестиционных портфелей и улучшали условия банковского кредитования. В",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "то же время успешность применения ведущими странами мира программ количе­",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ственного смягчения, например, для стабилизации уровня цен, признается не такой",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "очевидной. Их регулирование связано с факторами, которые не контролируются",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "центральными банками, о чем часто говорят руководители центральных банков.",
+      "page": 1,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "©  Соколова Е.Ю., 2019",
+      "page": 1,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "148",
+      "page": 2,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 2,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Представители финансовых кругов и регуляторы в целом положительно оценивают",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "роль и результативность «нетрадиционной» монетарной политики, и при рассмо­",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "трении вопроса о прекращении операций количественного смягчения и переходе к",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "докризисным стандартам процентной политики главы большинства центральных",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "банков выступают против поспешности. В статье рассматриваются причины из­",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "менения денежно-кредитной политики, особенности совершения операций коли­",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "чественного смягчения по странам, изучается проблема применения основных мер",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "количественного смягчения в качестве действенного средства предотвращения и",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "выхода из экономических кризисов.",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ключевые слова:  денежно-кредитная политика, Центральный банк, экономический кри­",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зис, метод «количественного смягчения», процентная ставка, банковский кредит,",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "инфляция",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Для цитирования: Соколова Е.Ю.  Современные особенности денежно-кредитной поли­",
+      "page": 2,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "DOI:  10.14530/se.2019.3.147-164 .",
+      "page": 2,
+      "language": "Afrikaans"
+    },
+    {
+      "level": "H2",
+      "text": "Modern Features of the Monetary Policy",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "of the Leading World Countries",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "E.Y. Sokolova",
+      "page": 2,
+      "language": "Slovenian"
+    },
+    {
+      "level": "H2",
+      "text": "Elena Yuryevna Sokolova",
+      "page": 2,
+      "language": "Slovenian"
+    },
+    {
+      "level": "H2",
+      "text": "Candidate of Sciences (Economics)",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Leading Researcher",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Center for Monetary Policy and Financial Markets, Financial University under the Government",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "of the Russian Federation, 49 Leningradskiy Pr., Moscow, Russia, 125993",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "E-mail: EYSokolova@fa.ru",
+      "page": 2,
+      "language": "Estonian"
+    },
+    {
+      "level": "H2",
+      "text": "ORCID: 0000-0003-4240-0080",
+      "page": 2,
+      "language": "Portuguese"
+    },
+    {
+      "level": "H2",
+      "text": "arising from the rapid development of derivative financial instruments and the",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "increase in transnational capital flows. Moreover, in countries with developed markets,",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "whose economy was considered stable, the consequences were the most severe. The",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "shortcomings of monetary policy pursued by the monetary authorities of most countries",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "were revealed. The Central banks are transforming from institutions that support",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "away from standard methods and tools of monetary policy. Fiscal policy mechanisms",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "have been applied to support the economy in developing countries, while monetary",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "policy instruments have been used in developed countries. The leading countries of",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "of the economy. Monetary authorities began to designate the unemployment rate as",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "expectations of market participants, using the policy of ‘forward guidance’, which",
+      "page": 2,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "149",
+      "page": 3,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 3,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "countries are moving from interest rate policy to non-standard methods of monetary",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "policy and, in particular, to the method of ‘quantitative easing’. These operations",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "‘untraditional’ monetary policy and when considering the termination of quantitative",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "for changes in monetary policy, the characteristics of the quantitative easing operations",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "means of preventing and overcoming economic crises.",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Keywords:  monetary policy, central bank, economic crises, ‘quantitative easing’ method, interest",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "rate, banking credit, inflation",
+      "page": 3,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Countries.  Prostranstvennaya Ekonomika = Spatial Economics , 2019, vol. 15. no. 3,",
+      "page": 3,
+      "language": "Catalan"
+    },
+    {
+      "level": "H2",
+      "text": "pp. 147–164. DOI:  10.14530/se.2019.3.147-164 .   (In Russian).",
+      "page": 3,
+      "language": "Afrikaans"
+    },
+    {
+      "level": "H2",
+      "text": "ВВЕДЕНИЕ",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Мировой кризис 2007–2009 гг. выявил недостатки денежно-кредитной",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "политики, проводимой монетарными властями большинства стран. Экс­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "перты стали широко обсуждать адекватность применяемых инструментов",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и методов денежно-кредитной политики (Апокин и др., 2014; Глазьев, 2014;",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Могилат и др., 2016; Юдаева, 2014), ее возможности для создания и под­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "держания макроэкономической устойчивости (Ломиворотов, 2015; Бадасен",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и др., 2015). Требовалось переосмыслить цели и задачи регуляторов, чтобы",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "не ограничиваться лишь обеспечением ценовой стабильности. Замедление",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "темпов экономического роста, как следствие глобального кризиса, произо­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "шло и в России. Экономисты обсуждают возможность проводить Банком",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "России стимулирующую денежно-кредитную политику, снижать ключевую",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ставку, обеспечивая тем самым доступ хозяйствующим субъектам к кредит­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ным ресурсам. Обсуждается вопрос о расширении целей денежно-кредит­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ной политики Центрального банка путем добавления полномочий по сти­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "мулированию экономического роста, что соответствует мировой практике,",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "когда одной из целей денежно-кредитной политики является экономический",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "рост (Дробышевский, 2016). Однако в России в настоящее время практи­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "чески не применяются механизмы, используемые другими странами, с по­",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "мощью которых возможно было бы стимулировать экономический рост. За",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "счет применения механизмов стимулирования в России, используя опыт",
+      "page": 3,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "150",
+      "page": 4,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 4,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "развитых экономик, могли бы возникнуть возможности повышения благо­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "состояния населения и решения социальных вопросов. Благосостояние на­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "селения страны является значимым фактором, формирующим внутренний",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "спрос, а это важно для роста экономики (Ершов, Соколова, 2019). Поэтому",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "необходимо изучить изменения монетарной политики центральных банков",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "после мирового экономического кризиса 2007–2009 гг. и опыт ведущих эко­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "номик по применению мер, стимулирующих экономический рост.",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Кризис 2007–2009 гг. обнажил проблемы финансовой системы, возник­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "шие в связи с активным развитием производных финансовых инструментов",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и увеличением транснациональных потоков капитала. Причем в странах",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "с развитыми рынками, чья экономика считалась устойчивой, последствия",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "оказались самыми тяжелыми (Ершов, 2019). Американские исследователи",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "отмечают, что кризису 2007–2009 гг. предшествовали те же симптомы – бы­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "стрый рост кредитной активности и стоимости финансовых активов, что и",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "перед Великой депрессией 1930-х гг. в США и кризисом в Юго-Восточной",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Азии 1997–1998 гг. Однако усиливающиеся риски в 2000-е гг. игнорирова­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лись государственными и монетарными властями из-за устойчивого темпа",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "роста мировой экономики, высокого роста цен на сельскохозяйственные",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "культуры, металлы и нефть (Nier, 2009).",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ситуация в американской экономике после ипотечного краха в 2007 г.",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "отразилась и на других странах мира. В 2009 г. мировой ВВП понизился",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "более чем на 0,3%. Стало очевидно, что основной цели центральных бан­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ков – обеспечение ценовой стабильности – недостаточно для поддержания",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономического роста, хотя и в развитых, и в развивающихся странах отме­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "чалось замедление темпов инфляции. Центральные банки трансформиру­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ются из институтов, поддерживающих ценовую стабильность и обеспечи­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вающих устойчивость развития финансового рынка, в основной инструмент",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "стимулирования экономического роста (Максимов, Дубова, 2016). С целью",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "поддержания экономики в развивающихся странах были применены меха­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "низмы налогово-бюджетной политики (Тосунян, Викулин, 2010), в разви­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тых же странах использовали инструменты денежно-кредитной политики.",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ведущие страны мира перешли к использованию нестандартных методов",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "денежно-кредитного регулирования экономики.",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Монетарные власти начали обозначать в качестве ориентиров денежно-",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ликобритания), а также уделять внимание управлению ожиданиями участ­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ников рынка, используя политику « forward guidance », которая позволяет",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "получить сведения о предстоящих изменениях ДКП и процентной ставки.",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Отметим, что в России уже продолжительное время участники рынка при­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зывают Центральный банк повысить информационную открытость и пу­",
+      "page": 4,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "151",
+      "page": 5,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 5,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "бликовать данные о будущих изменениях ключевой ставки, однако регуля­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "тор пока не решается на этот шаг.",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "Важной стабилизационной мерой зарубежных центральных банков ста­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ло применение метода количественного смягчения ( quantitative easing ), при",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "котором банк совершает покупку в собственный портфель крупных пакетов",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "долгосрочных ценных бумаг, благодаря чему меняется структура инвести­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ционных портфелей и активизируется финансовая и рыночная деятельность",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "предприятий (Labonte, 2013; Горюнов, Трунин, 2013; Трунин, Ващелюк,",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2015). Впервые в истории операции количественного смягчения были про­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ведены в Японии в 2001 г. после снижения ключевой процентной ставки",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "до предельно низкого уровня. Позднее, в 2008–2015 гг., метод количествен­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ного смягчения широко использовался регуляторами Японии, Швейцарии,",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Швеции, Великобритании, США. Вследствие проведения операций количе­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ственного смягчения наблюдался внушительный рост балансов централь­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ных банков перечисленных стран (Gertler, Karadi, 2013; Трунин, Ващелюк,",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2015; Замараев, Киюцевская, 2015).",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ДЕНЕЖНО-КРЕДИТНАЯ ПОЛИТИКА США:",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "МЕРЫ ОПЕРЕЖАЮЩЕГО РУКОВОДСТВА И ПОЛИТИКА",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "КОЛИЧЕСТВЕННОГО СМЯГЧЕНИЯ (QUANTITATIVE EASING)",
+      "page": 5,
+      "language": "Ukrainian"
+    },
+    {
+      "level": "H2",
+      "text": "Целями деятельности Федеральной резервной системы (ФРС) США яв­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ляются максимизация занятости, обеспечение стабильности цен и умерен­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ных долгосрочных процентных ставок.",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Совокупные активы Федеральной резервной системы США с начала",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "4473 млрд долл. США и составили 23,5% ВВП (по данным Федеральной",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "резервной системы). Метод количественного смягчения начал применять­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ся, поскольку старые методы денежно-кредитного регулирования оказались",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "неэффективными в борьбе против снижения экономической активности в",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "период кризиса. До количественного смягчения самым широко использу­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "емым методом являлась процентная политика, смысл которой заключался",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "в управлении Центральным банком процентными ставками на межбанков­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ском рынке путем установления их целевого уровня. Этот метод в США на­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зывается «таргетирование процентных ставок на рынке федеральных фон­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "1993). В соответствии с правилом Тейлора в периоды превышения инфля­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "цией установленного ориентира центральные банки могут повышать целе­",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вую ставку по краткосрочным межбанковским кредитам и снижать ее при",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "замедлении темпов роста ВВП ниже исторического тренда (Усоскин, 2018).",
+      "page": 5,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "152",
+      "page": 6,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 6,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Федеральная резервная система США и центральные банки развитых стран",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "действовали по данному методу в начале кризиса 2007–2009 гг. Тогда на де­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "нежном рынке возник недостаток ликвидности, и чтобы не допустить мас­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "сового банкротства и дать дополнительные денежные средства, централь­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ные банки начали снижать целевые ставки по межбанковским кредитам, а",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "также и ставку рефинансирования. В период самой острой фазы кризиса с",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "августа 2008 г. до декабря 2009 г. Федеральная резервная система США по­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нижала ставку рефинансирования 8 раз, так же поступали и центральные",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "банки других развитых стран.",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Принятые меры помогли снять напряженность на финансовом рынке,",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "хотя и не оказали существенного влияния на экономическое положение в",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "целом. А так как ставки вскоре достигли нулевого уровня, то метод тарге­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тирования процентных ставок исчерпал себя. Поэтому центральные банки",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "должны были искать другие способы денежно-кредитного регулирования и",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "в результате стали применять нетрадиционные методы: меры опережающе­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "го руководства и программы количественного смягчения.",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "В 2017 г. Федеральная резервная система США объявила, что приме­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нение методов количественного смягчения помогло значительно повысить",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "важнейшие макроэкономические показатели, обеспечение которых высту­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "пает основной задачей Центрального банка США. Уровень безработицы",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "снизился (до 4,4% трудоспособного населения) и слегка повысились темпы",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "инфляции (рост индекса потребительских цен до 1,5%) (Powell, 2017). Дру­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "гие страны также пришли к мнению о положительном опыте применения",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "метода количественного смягчения.",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "После того как количественное смягчение начало давать хорошие резуль­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "таты, стал обсуждаться вопрос о возврате к традиционным способам моне­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тарного регулирования. Комитет по операциям на открытом рынке США в",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2014 г. принял решение остановить покупку новых финансовых активов и пе­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "рейти на постепенное повышение процентной ставки на рынке федеральных",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "фондов, которая с 2009 г. была на нулевом уровне. Также следовало сократить",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "баланс ФРС. Таким образом, начался процесс «нормализации монетарной",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "политики». Руководство Центрального банка США обращало внимание, что",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нормализация носит постепенный характер и займет не один год. Реализо­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вываться она будет путем погашения казначейских облигаций и агентских",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ценных бумаг, находящихся в портфеле Федеральной резервной системы. В",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ситуации ухудшения экономической конъюнктуры предполагалось вновь вер­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нуться к методу количественного смягчения (Monetary…, 2019b).",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "С целью восстановления экономики США Центральный банк семь лет",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "после мирового финансового кризиса сохранял ключевую ставку около ну­",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "левой отметки. Общий цикл ужесточения денежно-кредитной политики",
+      "page": 6,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "153",
+      "page": 7,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 7,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Федеральная резервная система США начала после семилетнего перерыва",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "центных пункта.",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "В 2017 г. Федеральная резервная система повышала ставки ежеквар­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тально, а уже в 2018 г. было произведено четыре ужесточения денежно-кре­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "дитной политики путем повышения ставки. В результате текущий целевой",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "диапазон ставки достиг 2–2,25%, приблизившись к тому уровню, который,",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "по мнению руководителей Федеральной резервной системы, соответствуют",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "сильной экономике. Многие представители Центрального банка считают,",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "что не оказывающий влияния на темпы экономического роста нейтральный",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "уровень ставки находится в диапазоне 2,75–3%.",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "При принятии решения о величине ставки регулятор ориентируется",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "на  экономические данные и динамику рынков. Поскольку в Центральном",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "банке не смогли договориться о том, сколько раз повышать ставки: два, три",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "или четыре, то от Федеральной резервной системы ждут повышения про­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "центной ставки только один или два раза в 2019 г. Федеральная резервная",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "система США использует процентные ставки, чтобы помочь экономике раз­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "виваться стабильными темпами. Повышение процентных ставок может сдер­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "живать инфляцию, а их понижение может активизировать вялую экономику.",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Опасения, что Федеральная резервная система слишком быстро повы­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "шает ставки, частично привели к распродажам на фондовом рынке. Но цель",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Федеральной резервной системы состоит не в том, чтобы удержать фондо­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вый рынок на плаву, он предназначен для мониторинга экономики в целом,",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "поэтому председатель Федеральной резервной системы Дж. Пауэлл заявил,",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "что Центральный банк будет внимательно следить за экономическими пока­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зателями при принятии политических решений на 2019 г. и проявит гибкость",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "при принятии решения о повышении процентных ставок в наступившем",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "году. Любое дальнейшее повышение процентных ставок в США в текущем",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "году может привести к росту процентных ставок по кредитным картам и",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "автокредитам, следовательно, приведет к увеличению расходов населения.",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "В последние месяцы 2018 г. на рынках отмечалось беспокойство в связи",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "с избыточно жесткой политикой Федеральной резервной системы – нервоз­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ность американских фондовых индексов и критические заявления Прези­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дента США Д. Трампа в адрес Федеральной резервной системы, а также",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "опасения некоторых инвесторов по поводу замедления экономического ро­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ста в США. Эксперты ожидают замедления экономического роста США в",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ближайшие два года по причине слабого роста мировой экономики и тари­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ствовало тому, что представители ФРС начали посылать сигналы о возмож­",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ном смягчении денежно-кредитной политики США (Liesman, 2019).",
+      "page": 7,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "154",
+      "page": 8,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 8,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "В развитых странах, которые приступили к стимулированию спроса с по­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "мощью программ количественного смягчения позднее, чем США, о возврате",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "к докризисным стандартам монетарного регулирования говорят меньше.",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ПРОГРАММЫ КОЛИЧЕСТВЕННОГО СМЯГЧЕНИЯ В ЯПОНИИ",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "В 2013 г. начал применять меры количественного смягчения Банк Япо­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нии. Политика Банка Японии получила название «количественное и каче­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ственное монетарное смягчение» ( quantitative and qualitative monetary easing,",
+      "page": 8,
+      "language": "Estonian"
+    },
+    {
+      "level": "H2",
+      "text": "QQE ). Ее целью было обеспечение ценовой стабильности с ориентиром го­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дового роста цен на 2%. Вместо применяемого ранее курса регулирования",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ставки по однодневным кредитам была внедрена программа последователь­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "го показателя до 270 трлн иен к концу 2014 г. (Усоскин, 2018).",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Банк Японии осуществлял покупки государственных ценных бумаг с",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "было способствовать снижению процентных ставок по долгосрочным цен­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ным бумагам, сократить рисковые премии и рост курсов акций на финансо­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вом рынке. Банк Японии объявил об использовании метода «опережающего",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "руководства» для поддержания стабильности цен. Однако у Банка Японии",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "не получилось достигнуть намеченных целей по ускорению темпов эконо­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "принято решение о расширении мер количественного смягчения введением",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "контроля за кривой доходности для быстрого снижения реальных ставок по",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "финансовым активам и расширения денежной базы с целью стимулирова­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ния низких темпов инфляции (Monetary…, 2019a). Как результат, портфель",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "государственных облигаций Банка Японии увеличился до 418,6 трлн иен",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "намерен «последовательно проводить политику мощного ( powerful ) моне­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тарного смягчения» (Kuroda, 2017).",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "АНТИКРИЗИСНЫЕ ПРОГРАММЫ ЕВРОПЕЙСКОГО",
+      "page": 8,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "ЦЕНТРАЛЬНОГО БАНКА",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Европейский Центральный банк (ЕЦБ) в 2015 г. объявил о начале реа­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лизации программы расширенной покупки активов ( exрanded asset purchase",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "programme, APP ). В соответствии с программой ЕЦБ покупает правитель­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ственные и корпоративные ценные бумаги, в том числе государственные об­",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лигациии стран зоны евро (Monetary…, 2019c).",
+      "page": 8,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "155",
+      "page": 9,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 9,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "В кризисный период ЕЦБ подвергал критике ФРС США за слишком мяг­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "кую денежно-кредитную политику и крупные риски. Но по мере усиления",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "кризисных проявлений в европейской финансовой системе ЕЦБ вынужден",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "был начать применять те же действия, что и США. ЕЦБ совершал крупные",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "операции по покупке гособлигаций и даже ввел дополнительные инстру­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "менты смягчения денежно-кредитной политики. В 2014 г. ЕЦБ наделяется",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "полномочиями главного регулятора европейской банковской системы. Ранее",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "в докризисный период в качестве основных инструментов денежно-кредит­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ной политики ЕЦБ применял такие программы предоставления ликвидно­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "сти коммерческим банкам, как Main refinancing operations (MRO) и Longer",
+      "page": 9,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "term refinancing operation (LTRO). Основным инструментом являлась про­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "грамма MRO, в соответствии с которой банкам еврозоны предоставлялись",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "краткосрочные кредиты на срок одну неделю. По программе LTRO кредиты",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "предоставлялись на три месяца, и она играла второстепенную роль (Gagnon,",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Raskin, 2011). ЕЦБ расширил программу LTRO до трехлетнего периода, и",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "она смогла активизировать рынки проблемных стран еврозоны и укрепила",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "их банки, нуждающиеся в финансировании. Европейские банки на предо­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ставленные средства купили государственные облигации Италии, Испании",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и других европейских государств, поддержав таким образом страны, нахо­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дящиеся в тяжелом положении.",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Одновременно с долгосрочным кредитованием ЕЦБ постепенно снижал",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ставки по предоставленным кредитам. До кризиса учетная ставка являлась",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "самым сильным инструментом регулятора, поэтому ЕЦБ в период мирового",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "финансового кризиса совершил 6 постепенных снижений ставки с 3,25% в",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "высил ставку каждый раз на 0,25%. Повышение было сделано по причине",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "роста мировых цен на энергоресурсы, способствующего разгону инфляции.",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Главной своей задачей ЕЦБ видит поддержание стабильного роста потре­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "бительских цен на уровне примерно 2% ежегодно. Такой уровень считается",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "оптимальным для экономического роста и для финансовой системы. Однако",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вскоре ставка снова была снижена до 1%, поскольку следовало стабилизи­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ровать финансовые рынки из-за ухудшения положения в Испании и Ита­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лии, в результате чего ставка была понижена. Далее ЕЦБ понижал ставку в",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Смягчение денежно-кредитной политики обосновывалось угрозой перехода",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "низкой инфляции в дефляцию и необходимостью на фоне безработицы ак­",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тивизировать экономический рост в европейских странах.",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "По причине низкой экономической активности в еврозоне, дефицита",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "качественных заемщиков и доходных инвестиционных продуктов многие",
+      "page": 9,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "156",
+      "page": 10,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 10,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "европейские коммерческие банки хранят значительные объемы свободных",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "средств на депозитах в Центральном банке. Когда ситуация с ликвидностью",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "на финансовых рынках начала улучшаться, объемы этих средств только уве­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "личивались, несмотря на отсутствие доходности. Тогда ЕЦБ принял реше­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ние установить отрицательный процент на размещенные банками средства",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "на счетах в центральных банках.",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Сначала депозитная ставка была установлена в июне 2014 г. на уровне",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "–0,1%, а в сентябре понижена до –0,2%. В дальнейшем ЕЦБ дважды сни­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зитных ставок применяли центральные банки Дании, Венгрии, Швейца­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "рии, Швеции, Японии в целях стимулирования кредитования реального",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "сектора экономики и уменьшения объема свободных средств. Установле­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ние отрицательной депозитной ставки в еврозоне критиковалось многими",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экспертами (Захаров, 2016). Сильное недовольство отрицательная ставка",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вызывает в Германии, где считают, что она дискредитирует традиционную",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "для немцев сберегательную модель поведения, и расценивают ее в качестве",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "налога на вкладчиков. Критики считают, что такая политика способствует",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "обесцениванию долгосрочных инвестиций и усиливает потребительскую",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "модель поведения. Также она может вызвать «пузыри» на рынках, особен­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "но на рынке недвижимости и фондовом. Всемирный банк также отмечает в",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "своем докладе вероятность негативных последствий для финансовой ста­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "бильности по причине снижения у банков доходной базы. Также Всемир­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ный банк считает, что такая политика может подтолкнуть инвесторов к при­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нятию на себя чрезмерных рисков в поисках выгодных инструментов для",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "инвестиций (Global…, 2019).",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Однако эксперты Всемирного банка видят положительные стороны дан­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ной политики для развивающихся стран. Европейские инвесторы в поисках",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "доходных инструментов могут направить капиталы на развивающиеся рын­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ки, и это позволит несколько компенсировать отток долларов, вызванный",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ужесточением ФРС США денежно-кредитной политики.",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "По мере развития кризиса европейский ЦБ понял, что действия учетной",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и депозитной ставок недостаточно для влияния на финансовые рынки, по­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "этому были задействованы новые инструменты денежно-кредитной поли­",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тики. ЕЦБ начал выкупать крупные объемы ценных бумаг, государственных",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "облигаций стран еврозоны, включая облигации проблемных стран. Таким",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "образом, ЕЦБ начал применять то же самое количественное смягчение, что",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и центральные банки США, Великобритании и Японии.",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Опасения немецких политиков и экспертов, что подобные операции",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "спровоцируют рост инфляции, оказались несостоятельными по причине",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "очень низкого роста потребительских цен. Программы количественного",
+      "page": 10,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "157",
+      "page": 11,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 11,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "смягчения повлияли на снижение ставок ценных бумаг, как государствен­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ных, так и корпоративных. Меры, принятые ЕЦБ, способствовали повыше­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "нию экономической активности в еврозоне, за год был отмечен рост ВВП",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "на 1,6% и получилось избежать рецессии (GDP…, 2016). Именно влива­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ния ликвидности в экономику позволили Европе на длительный срок за­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "быть о структурных проблемах крупных европейских стран. Так, проблема",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "итальянского госдолга, составляющего 130% ВВП, решалась покупкой ЕЦБ",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "итальянских гособлигаций.",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "фиксирована дефляция. Рост потребительских цен отмечен на нулевом",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "уровне, также всего на доли процента снизилась и безработица (Database…,",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2019).",
+      "page": 11,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Очевидно, что проводимый курс смягчения денежно-кредитной поли­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тики со стороны ЕЦБ показывал неоднозначные результаты. ЕЦБ завершил",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "программу количественного смягчения в декабре 2018 г. Программа сни­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зила бюджетные и долговые проблемы ряда европейских стран, в течение",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "четырех лет была единственным способом восстановления экономики евро­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "зоны от последствий кризиса 2007–2008 гг. ЕЦБ не отказался от поддержки",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономики после завершения программы. Для поддержания ликвидности,",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "сохранения объемов денежной массы ЕЦБ хранит купленные им активы.",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Средства, полученные от погашения ценных бумаг, чей срок обращения вы­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "шел, реинвестируются. Количественное смягчение было успешно тем, что",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "помогло вновь запустить кредитование в Европе, помогло домохозяйствам",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и правительствам снизить долговую нагрузку. Глава ЕЦБ Марио Драги в на­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "держания стимулирующей денежно-кредитной политики, а в июле 2019 г.",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "еще раз подчеркнул, что ЕЦБ считает необходимым проведение «обширных",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "мер» по монетарному стимулированию экономики еврозоны, и денежно-",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "кредитная политика ЕЦБ, если и будет меняться, то в сторону дальнейшего",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "смягчения (Мильчакова, 2019).",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "РЕФОРМЫ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ КИТАЯ",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Между тем на примере Китая видно, что для того, чтобы вести стиму­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лирующую ДКП, понижать процентную ставку необязательно. В августе",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2018 г. начальник департамента Народного банка Китая Ли Бо заявил о том,",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "что «Китай не собирается использовать курс юаня в качестве инструмента в",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "торговых трениях или в других внешних проблемах» (Press…, 2018). Ставка",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Китая осталась на уровне 4,35%, однако за счет операций на открытом рын­",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ке страна вливает на рынки ликвидность в огромных масштабах.",
+      "page": 11,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "158",
+      "page": 12,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 12,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "В Китае в настоящее время происходит модернизация денежно-кредит­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ной политики. В течение последних двух десятилетий Центральный банк",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "проводил политику, в которой были две определяющие черты. Она фоку­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "приток иностранного капитала для создания новых денег. Эти две составля­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ющие постепенно меняются, приближая Китай к стандартам развитого рын­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ка, происходит чрезвычайно важная трансформация для все более сложной",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономики.",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Например, раньше процентная ставка имела второстепенное значение",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "в Китае. Вместо нее регуляторы использовали квоты, которые определяли",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "объемы банковского кредитования, ставку размещения депозитов и выдачи",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "кредитов. В то время, когда Китай только начал отходить от плановой эконо­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "мики, это было оправданно, жесткие меры еще были необходимы.",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "По мере того как финансовая система укрупнялась, эти цели были уже",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "не так важны. С появлением объемного рынка облигаций, большого коли­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "чества небанковских кредитных организаций и новых инвестиционных воз­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "можностей для владельцев сбережений банки столкнулись с возросшей кон­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "куренцией за депозиты и пополнение кредитных портфелей (China…, 2018).",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Учитывая это, Центральный банк Китая в конце 2015 г. позволил банкам",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "устанавливать собственные ставки для кредитов и депозитов. Был также от­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "менен обязательный коэффициент кредитов к депозитам и снижена значи­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "мость кредитных квот. Однако это не привело к положительному результату,",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "поскольку регулятор отказался от старого контроля, не вводя нового.",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "В результате была создана учетная ставка, похожая на бенчмарк кратко­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "срочной процентной ставки в США и Европе. Центральный банк попытался",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "создать похожий якорь в финансовой системе Китая: ставку семидневного",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "РЕПО (ставка выкупа облигаций, по которой ЦБ кредитует банки). В рам­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ках семидневной ставки был установлен предел колебаний с более низким",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "курсом для кредитования банков, имеющих достаточно наличных денег, и",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дины 2015 г. Центральный банк удерживал семидневную ставку в пределах",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "коридора и повышал ее по мере ускорения темпов экономики. МВФ в еже­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "годном обзоре китайской экономики указывал, что ведение монетарной по­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "литики напоминает стандарт механизма, базирующегося на учетной ставке.",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Центральный банк в дополнение к ставке создал широкий спектр ин­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "струментов управления ликвидностью. С 2013 г. в Китае применяются",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "новые способы кредитования, такие как операции по краткосрочной лик­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "видности, постоянные кредитные линии и дополнительное кредитование",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вание наличных денег по разным ставкам на различный временной отре­",
+      "page": 12,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "159",
+      "page": 13,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 13,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "зок. Важность вышеуказанных операций проявилась, когда отток капитала",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "уменьшил стоимость резервов Китая в иностранной валюте. Это усилило",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "давление на внутреннюю ликвидность, так как Китай зависел от прито­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ка наличности для генерирования роста денежной массы (выпуск новых",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "юаней для покупки поступающих долларов). После первоначальных про­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "блем Центральный банк практически полностью компенсировал потерю",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "долларов через использование различных инструментов. В итоге ему уда­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лось лучше управлять уровнем денежных средств на ежедневной основе",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "(Monetary…, 2019d.).",
+      "page": 13,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Высокая волатильность процентных ставок денежного рынка, еще не­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "давно обычная вещь для Китая, почти полностью исчезла благодаря дей­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ствиям Центрального банка. Однако в положении, когда государственные",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "банки и компании до сих пор зависят от правительственной поддержки при",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "появлении каких-либо проблем, процентные ставки намного меньше отра­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "жают стоимость, чем при более свободном рынке.",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Центральный банк со своей стороны продолжает использовать админи­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "стративные рычаги для влияния на кредиторов. А его успех в управлении",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ликвидностью во многом достигнут благодаря жесткому контролю счета",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "движения капитала Китая. Без этих шагов рост денежной массы мог бы уси­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "лить отток капитала из страны.",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ЗАКЛЮЧЕНИЕ",
+      "page": 13,
+      "language": "Ukrainian"
+    },
+    {
+      "level": "H2",
+      "text": "При рассмотрении вопроса о прекращении операций количественного",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "смягчения и переходе к докризисным стандартам процентной политики гла­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вы большинства центральных банков выступают против поспешности. Руко­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "водители центральных банков и другие представители финансовых кругов в",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "целом положительно оценивают роль и результативность «нетрадиционной»",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "монетарной политики. Однако встречается и критика, в которой указывается",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "на противоречивость политики, неясность теории и двойственные результа­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ты (Williamson, 2017). Отметим, что, прежде всего, с помощью нетрадици­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "онных методов центральные банки восстановили работу трансмиссионного",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "механизма денежно-кредитной политики и повысили инвестиционную ак­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тивность и спрос на рискованные активы. Последствия глобального кризиса",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "обозначили необходимость участия центральных банков в стимулировании",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономического роста, не ограничиваясь обеспечением ценовой и финансо­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вой стабильности (Дробышевский, 2016).",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Невзирая на имеющиеся минусы программ количественного смягчения,",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "можно сделать вывод, что активные покупки центральными банками цен­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ных бумаг в кризисный период оказали значительное положительное вли­",
+      "page": 13,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "160",
+      "page": 14,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 14,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "яние на состояние финансовых рынков. Данные операции способствовали",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "снижению ставок по государственным и частным ценным бумагам, стиму­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "лировали изменение структуры инвестиционных портфелей и улучшали ус­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ловия банковского кредитования. В то же время успешность применения",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "ведущими странами мира программ количественного смягчения, например,",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "для стабилизации уровня цен, признается не такой очевидной. Их регули­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "рование связано с факторами, которые не контролируются центральными",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "банками, о чем часто говорят руководители центральных банков. Однако",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "очевидно, что меры количественного смягчения останутся действенным",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "средством предотвращения и выхода из экономических кризисов. При этом",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "меры количественного смягчения должны сопровождаться со стороны госу­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дарства четкой экономической, промышленной политикой, носящей опере­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "жающий характер, с целью облегчения воспроизводства факторов экономи­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ческого роста, для облегчения создания производств и лучшей абсорбции",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вливающейся в экономику дополнительной ликвидности.",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Учитывая положительные результаты ведущих центральных банков в",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "использовании нетрадиционных методов стимулирования экономического",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "роста, представляется важным приблизить монетарную политику Банка",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "России к мировым стандартам. Ценовая стабильность, которую регулятор",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "пытается достичь путем инфляционного таргетирования, важное, но недо­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "статочное условие для роста экономики, поэтому цели Банка России могут",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "быть расширены полномочиями по стимулированию экономического роста",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "и максимизации занятости в стране. При этом отметим важность проектив­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ного диалога между Центральным банком и правительством страны, без",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "которого правильный тезис о том, что количественное смягчение дает пра­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "вительству передышку для формирования структурных преобразований в",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономике, неэффективен. В России Центральный банк и правительство",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "имеют разные мнения насчет способов стимулирования экономического",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "роста, программы количественного смягчения в стране отсутствуют, кре­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "дит дорог, соответственно не растет инвестиционная активность. Незначи­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тельное внимание уделяется структурным преобразованиям в экономике,",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "созданию новых отечественных производств. Внутренняя занятость не рас­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "тет, поскольку преференция отдается сырьевому экспорту за иностранную",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "валюту и перераспределению экспортных доходов внутри страны. Поэто­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "му без форсированных структурных преобразований в экономике, прово­",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "димых со стороны правительства, количественное смягчение, которое дает",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "необходимые средства и финансовую передышку, может превратиться не в",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "фактор качественного экономического роста, а в мощный инфляционный",
+      "page": 14,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "фактор.",
+      "page": 14,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "161",
+      "page": 15,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 15,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СПИСОК ЛИТЕРАТУРЫ",
+      "page": 15,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Апокин А.Ю., Галимов Д.И., Голощапова И.О., Сальников В.А., Солнцев О.Г.  Денеж­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "но-кредитная политика: работа над ошибками // Вопросы экономики. 2015. № 9.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "С. 136–151.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "Бадасен П.В., Исаков А.В., Хазанов А.А.  Современная денежно-кредитная политика:",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "обоснованная критика или типичные заблуждения экспертного сообщества? //",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Вопросы экономики. 2015. № 6. С. 128–142.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Глазьев С.Ю.  Санкции США и политика Банка России: двойной удар по националь­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ной  экономике // Вопросы экономики. 2014. № 9. С. 13–29.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Горюнов Е.Л., Трунин П.В.  Банк России на перепутье: нужно ли смягчать денежно-",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "кредитную политику? // Вопросы экономики. 2013. № 6. С. 29–44.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Дробышевский С.М., Киюцевская А.М., Трунин П.В.  Мандат и цели центральных бан­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ершов М.В.  Десять лет после глобального кризиса: риски и перспективы // Вопросы",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономики. 2019. № 1. С. 37–53.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ершов М.В., Соколова Е.Ю.  О важности дополнительных стимулов для экономиче­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ского роста // Научные труды вольного экономического общества России. 2019.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Т. 217. № 3. С. 159–168.",
+      "page": 15,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Захаров П.В.  Денежно-кредитная политика Европейского центробанка на современ­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ном этапе // Проблемы национальной стратегии. 2016. № 4 (37). С. 195–217.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Ломиворотов Р.В.  Выявление основных макроэкономических шоков в России, оцен­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "ка их влияния на экономику и выводы для денежно-кредитной политики: дис. ...",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "канд. экон. наук. М.: НИУ ВШЭ, 2015.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Максимов Н.А., Дубова С.Е.  Стимулирование экономического роста монетарными",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "методами: возможности и перспективы для российской экономики // Проблемы",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "экономики, финансов и управления производством: сб. науч. тр. вузов России.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "2016. № 39. С. 49–57.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Мильчакова Н.  У евро эйфория после выступления Марио Драги  / ИАЦ «Аль­",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "пари». 2019. 25 июля. URL: https://alpari.com/ru/analytics/reviews/market_",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "sessions/116496_25072019/ (дата обращения: июль 2019).",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Могилат А.Н., Ачкасов Ю.К., Егоров А.В., Климовец А.В., Донец С.А.  Дискуссия о",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "денежно-кредитной политике и состоянии экономики: в поисках конструктивной",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "критики // Вопросы экономики. 2016. № 5. С. 25–43.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Тосунян Г.А., Викулин А.Ю.  Антикризисные меры и антикризисное законодательство",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "России. Общий комментарий. М.: Олимп-Бизнес, 2010. 224 с.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Трунин П.В., Ващелюк Н.В.  Анализ нестандартных инструментов предоставления",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Усоскин В.М.  Программы «количественного смягчения» как инструмент монетарной",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "политики // Вопросы экономики. 2018. № 5. С. 129–138.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Юдаева К.В.  О возможностях, целях и механизмах денежно-кредитной политики в",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "текущей ситуации // Вопросы экономики. 2014. № 9. С. 4–12.",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "https://www.economist.com/finance-and-economics/2018/06/30/china-starts-easing-",
+      "page": 15,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "monetary-policy-or-does-it (дата обращения: апрель 2019).",
+      "page": 15,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Database / Eurostat. 2019. URL: https://ec.europa.eu/eurostat/web/lfs/data/database# (дата",
+      "page": 15,
+      "language": "Estonian"
+    },
+    {
+      "level": "H2",
+      "text": "обращения: апрель 2019).",
+      "page": 15,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Reserve’s Large-Scale Asset Purchases // International Journal of Central Banking.",
+      "page": 15,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2011. Vol. 7. No. 1. Pp. 3–43.",
+      "page": 15,
+      "language": "Afrikaans"
+    },
+    {
+      "level": "H2",
+      "text": "162",
+      "page": 16,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 16,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "8 March. URL: https://ec.europa.eu/eurostat/documents/2995521/7205531/2-08032016-",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "AP-EN.pdf/58203ef6-f87a-4638-b84d-f177a8bbf12c (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "Vol. 9. No. 1. Pp. 5–53.",
+      "page": 16,
+      "language": "Afrikaans"
+    },
+    {
+      "level": "H2",
+      "text": "4648-1398-6.",
+      "page": 16,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "2017. 26 December. URL: https://www.bis.org/review/r180112c.pdf (дата обращения:",
+      "page": 16,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Report to Congress. No. RL30354. 2013.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "According to CNBC’s Fed Survey / CNBC. 2019. 19 March. URL: https://www.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "cnbc.com/2019/03/19/us-economic-growth-is-set-to-slow-sharply-this-year-and-next-",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "according-to-cnbcs-fed-survey.html (дата обращения: май 2019).",
+      "page": 16,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Monetary Policy / Bank of Japan. 2019a. URL: https://www.boj.or.jp/en/mopo/index.htm/",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "(дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "www.federalreserve.gov/monetarypolicy.htm  (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Monetary Policy Decisions / European Central Bank. 2019c. URL: https://www.ecb.europa.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "eu/mopo/decisions/html/index.en.html (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "gov.cn/en/3688229/3688353/3688356/index.html (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Crisis / IMF Working Paper. No. WP/09/70. 2009.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "of the Federal Reserve System. 2017. 1 June. URL: https://www.federalreserve.gov/",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "newsevents/speech/powell20170601a.htm (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Bulgarian"
+    },
+    {
+      "level": "H2",
+      "text": "Press Releases / The People’s Bank of China. 2018. URL: https://www.pbc.gov.cn/",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "en/3688110/3688172/index.html (дата обращения: апрель 2019).",
+      "page": 16,
+      "language": "Russian"
+    },
+    {
+      "level": "H2",
+      "text": "Taylor J.  Discretion Versus Policy Rules in Practice // Carnegie-Rochester Conference",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Series on Public Policy. 1993. Vol. 39. Issue 1. Pp. 195–214.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "of St. Louis. Working Papers No. 2017-010A. DOI: 10.20955/wp.2017.010.",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "REFERENCES",
+      "page": 16,
+      "language": "German"
+    },
+    {
+      "level": "H2",
+      "text": "Apokin A.Yu., Galimov D.I., Goloshchapova I.O., Salnikov V.A., Solntsev O.G. Russian",
+      "page": 16,
+      "language": "Slovenian"
+    },
+    {
+      "level": "H2",
+      "text": "Monetary Policy: Work on the Bugs.  Voprosy Ekonomiki  [Economic Issues], 2015,",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "no. 9, pp. 136–151. (In Russian).",
+      "page": 16,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "Badasen P.V., Isakov A.V., Khazanov A.A. Modern Monetary Policy: Relevant Criticism or",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Misunderstanding in the Expert Community?   Voprosy Ekonomiki  [Economic Issues],",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2015, no. 6, pp. 128–142. (In Russian).",
+      "page": 16,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "lable at: https://www.economist.com/finance-and-economics/2018/06/30/china-starts-",
+      "page": 16,
+      "language": "French"
+    },
+    {
+      "level": "H2",
+      "text": "easing-monetary-policy-or-does-it (accessed April 2019).",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Database . Eurostat, 2019. Available at: https://ec.europa.eu/eurostat/web/lfs/data/database#",
+      "page": 16,
+      "language": "Filipino"
+    },
+    {
+      "level": "H2",
+      "text": "(accessed April 2019).",
+      "page": 16,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "163",
+      "page": 17,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "СОВРЕМЕННЫЕ ОСОБЕННОСТИ ДЕНЕЖНО-КРЕДИТНОЙ ПОЛИТИКИ ВЕДУЩИХ СТРАН МИРА",
+      "page": 17,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 17,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Drobyshevskiy S.M., Kiyutsevskaya A.М., Trunin P.V. Central Banks’ Mandate and Objec­",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "tives: Evolution and the Crisis Lessons.  Voprosy Ekonomiki  [Economic Issues], 2016,",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "no. 5, pp. 5–24. (In Russian).",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H1",
+      "text": "[Economic Issues], 2019, no. 1, p. 37–53. (In Russian).",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Ershov M.V., Sokolova E.Yu. About the Importance of Additional Stimulus for Economic",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "Growth.  Nauchnye   Trudy Volnogo Ekonomicheskogo Obshchestva Rossii   = Scientific",
+      "page": 17,
+      "language": "German"
+    },
+    {
+      "level": "H2",
+      "text": "Russian).",
+      "page": 17,
+      "language": "Finnish"
+    },
+    {
+      "level": "H2",
+      "text": "Reserve’s Large-Scale Asset Purchases.  International Journal of Central Banking ,",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2011, vol. 7 no. 1, pp. 3–43.",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "8 March. Available at: https://ec.europa.eu/eurostat/documents/2995521/7205531/2-",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "08032016-AP-EN.pdf/58203ef6-f87a-4638-b84d-f177a8bbf12c (accessed April 2019).",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "vol. 9, no. 1, pp. 5–53.",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "National Economy.  Voprosy Ekonomiki  [Economic Issues], 2014, no. 9, pp. 13–29. (In",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "Russian).",
+      "page": 17,
+      "language": "Finnish"
+    },
+    {
+      "level": "H2",
+      "text": "4648-1398-6.",
+      "page": 17,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "Eased?  Voprosy Ekonomiki  [Economic Issues], 2013, no. 6, pp. 29–44. (In Russian).",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2017, 26 December. Available at: https://www.bis.org/review/r180112c.pdf (accessed",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "April 2019).",
+      "page": 17,
+      "language": "Romanian"
+    },
+    {
+      "level": "H2",
+      "text": "Report to Congress, No. RL30354, 2013.",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "com/2019/03/19/us-economic-growth-is-set-to-slow-sharply-this-year-and-next-ac­",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "cording-to-cnbcs-fed-survey.html (accessed May 2019).",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Lomivorotov R.V.  Detection of the Main Macroeconomic Shocks in Russia, Assessment of",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "econ. science . Moscow: National Research University Higher School of Economics,",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2015. (In Russian).",
+      "page": 17,
+      "language": "Indonesian"
+    },
+    {
+      "level": "H2",
+      "text": "Maksimov N.A., Dubova S.E.  Monetary Methods for Economic Growth Stimulation:",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Opportunities and Prospects for the Russian Economy.  Problems of Economy, Finance",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "and Production Management :  Collection of Scientific Works of Russian Universities ,",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "2016, no.  39, pp. 49–57.   (In Russian).",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "2019.",
+      "page": 17,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "July.",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Available",
+      "page": 17,
+      "language": "French"
+    },
+    {
+      "level": "H2",
+      "text": "at:",
+      "page": 17,
+      "language": "Filipino"
+    },
+    {
+      "level": "H2",
+      "text": "https://alpari.com/ru/analytics/reviews/market_",
+      "page": 17,
+      "language": "Unknown"
+    },
+    {
+      "level": "H2",
+      "text": "sessions/116496_25072019/ (accessed July 2019). (In Russian).",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Mogilat A.N., Achkasov Yu.K., Egorov A.V., Klimovets A.V., Donets S.A. Debates on",
+      "page": 17,
+      "language": "Estonian"
+    },
+    {
+      "level": "H2",
+      "text": "Monetary Policy Issues and Economic Situation: Searching for Constructive Comments.",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Voprosy Ekonomiki  [Economic Issues], 2016, no. 5, pp. 25–43. (In Russian).",
+      "page": 17,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "Monetary Policy Decisions . European Central Bank, 2019c. Available at: https://www.ecb.",
+      "page": 17,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "europa.eu/mopo/decisions/html/index.en.html (accessed April 2019).",
+      "page": 17,
+      "language": "French"
+    },
+    {
+      "level": "H1",
+      "text": "Е.Ю. Соколова",
+      "page": 18,
+      "language": "Russian"
+    },
+    {
+      "level": "H1",
+      "text": "№  3  2019",
+      "page": 18,
+      "language": "Unknown"
+    },
+    {
+      "level": "H1",
+      "text": "pbc.gov.cn/en/3688229/3688353/3688356/index.html (accessed April 2019).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "Monetary Policy . Bank of Japan, 2019a. Available at: https://www.boj.or.jp/en/mopo/index.",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "htm/ (accessed April 2019).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H1",
+      "text": "https://www.federalreserve.gov/monetarypolicy.htm ( accessed April  2019).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Crisis.  IMF Working Paper. No. WP/09/70 , 2009.",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Federal Reserve System, 2017, 1 June. Available at: https://www.federalreserve.gov/",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "newsevents/speech/powell20170601a.htm (accessed April 2019).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Press Releases . The People’s Bank of China, 2018. Available at: https://www.pbc.gov.cn/",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "en/3688110/3688172/index.html (accessed April 2019).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Taylor J.  Discretion Versus Policy Rules in Practice . Carnegie-Rochester Conference Series",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "on Public Policy, 1993, vol. 39, issue 1, pp. 195–214.",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Tosunyan G.A., Vikulin A.Yu.  Anti-Crisis Measures and Anti-Crisis Legislation of Russia.",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "General Comment.  Moscow, 2010, 224 p. (In Russian).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Trunin P.V., Vashchelyuk N.V. Analysis of Unconventional Liquidity Providing Facilities",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "no. 1, p. 41–57. (In Russian).",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Usoskin V.М. Quantitative Easing Operations as an Instrument of Monetary Policy.  Voprosy",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Ekonomiki  [Economic Issues], 2018, no. 5, pp. 129–138. (In Russian).",
+      "page": 18,
+      "language": "Italian"
+    },
+    {
+      "level": "H2",
+      "text": "St. Louis. Working Papers No. 2017-010A . DOI: 10.20955/wp.2017.010.",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Current Conditions.   Voprosy Ekonomiki  [Economic Issues], 2014, no. 9, pp. 4–12. (In",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Russian).",
+      "page": 18,
+      "language": "Finnish"
+    },
+    {
+      "level": "H2",
+      "text": "Zakharov P.V. Current European Central Bank Monetary Policy.  Problemy Natsionalnoy",
+      "page": 18,
+      "language": "English"
+    },
+    {
+      "level": "H2",
+      "text": "Поступила в редакцию 17 июля 2019 г.",
+      "page": 18,
+      "language": "Russian"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+PyMuPDF
+unidecode
+langdetect
+polyglot
+pdfminer.six
+langcodes
+pytesseract
+pillow
